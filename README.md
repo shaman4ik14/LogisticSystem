@@ -12,3 +12,4 @@ you must install all these files
 ```bash
 place all these files in one folder and run menu.py
 ```
+> Also review the pdf to understand the interaction of classes
